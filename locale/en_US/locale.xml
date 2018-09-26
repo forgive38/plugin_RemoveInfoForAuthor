@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  *
+  -->
+ 
+<locale name="en_US" full_name="English">
+	<message key="plugins.generic.RemoveInfoForAuthor.name">Hide review informations from author</message>
+	<message key="plugins.generic.RemoveInfoForAuthor.description">Hide review informations from author</message>	
+	
+</locale>

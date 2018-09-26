@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Copyright (c) 2018 MATHDOC
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  *
+  -->
+ 
+<locale name="fr_FR" full_name="France">
+		<message key="plugins.generic.RemoveInfoForAuthor.name">Cache les informations d'évaluation à l'auteur</message>
+		<message key="plugins.generic.RemoveInfoForAuthor.description">Cache des informations d'évaluation à l'auteur : l'auteur voit seulement si son article est en évaluation, pas les différents états liés aux rapports</message>	
+</locale>
